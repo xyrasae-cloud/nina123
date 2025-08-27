@@ -1,0 +1,13 @@
+p {
+    font-family: Verdana;
+    font-size: 25px;
+}
+p {
+   font-family: 'Lucida Sans Unicode';
+   font-size: 25px;
+}
+a :hover {
+         color: red;
+         background-color: transparent;
+         text-decoration: underline;
+}
